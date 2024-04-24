@@ -2,6 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import UserDashboard from './pages/UserDashboard.jsx';
+import PlatePass from './components/PlatePass.jsx';
+import PlateNoPass from './components/PlateNoPass.jsx';
 import './index.css'
 
 import {
@@ -16,6 +18,12 @@ const router = createBrowserRouter([
   },{
     path: "/2",
     element: <UserDashboard />
+  },{
+    path: "/3",
+    element: <PlatePass />
+  },{
+    path: "/4",
+    element: <PlateNoPass />
   }
 ]);
 
