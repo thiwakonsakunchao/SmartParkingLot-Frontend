@@ -4,5 +4,96 @@
         "haveCars": false,
         "resultScan": false
       }
-    ]
+    ],
+      "days": [
+        {
+          "date": "2023-01-01",
+          "hours": [
+            {"hour": "00:00", "amountCars": 10},
+            {"hour": "01:00", "amountCars": 8},
+            {"hour": "02:00", "amountCars": 12},
+            {"hour": "03:00", "amountCars": 15},
+            {"hour": "04:00", "amountCars": 20},
+            {"hour": "05:00", "amountCars": 25},
+            {"hour": "06:00", "amountCars": 30},
+            {"hour": "07:00", "amountCars": 35},
+            {"hour": "08:00", "amountCars": 40},
+            {"hour": "09:00", "amountCars": 22},
+            {"hour": "10:00", "amountCars": 13},
+            {"hour": "11:00", "amountCars": 33},
+            {"hour": "12:00", "amountCars": 12},
+            {"hour": "13:00", "amountCars": 12},
+            {"hour": "14:00", "amountCars": 34},
+            {"hour": "15:00", "amountCars": 12},
+            {"hour": "16:00", "amountCars": 25},
+            {"hour": "17:00", "amountCars": 16},
+            {"hour": "18:00", "amountCars": 4},
+            {"hour": "19:00", "amountCars": 1},
+            {"hour": "20:00", "amountCars": 23},
+            {"hour": "21:00", "amountCars": 11},
+            {"hour": "22:00", "amountCars": 32},
+            {"hour": "23:00", "amountCars": 40}
+          ]
+        },
+        {
+          "date": "2023-01-02",
+          "hours": [
+            {"hour": "00:00", "amountCars": 12},
+            {"hour": "01:00", "amountCars": 10},
+            {"hour": "02:00", "amountCars": 14},
+            {"hour": "03:00", "amountCars": 17},
+            {"hour": "04:00", "amountCars": 22},
+            {"hour": "05:00", "amountCars": 27},
+            {"hour": "06:00", "amountCars": 32},
+            {"hour": "07:00", "amountCars": 37},
+            {"hour": "08:00", "amountCars": 42},
+            {"hour": "09:00", "amountCars": 47},
+            {"hour": "10:00", "amountCars": 52},
+            {"hour": "11:00", "amountCars": 57},
+            {"hour": "12:00", "amountCars": 62},
+            {"hour": "13:00", "amountCars": 67},
+            {"hour": "14:00", "amountCars": 72},
+            {"hour": "15:00", "amountCars": 77},
+            {"hour": "16:00", "amountCars": 82},
+            {"hour": "17:00", "amountCars": 87},
+            {"hour": "18:00", "amountCars": 92},
+            {"hour": "19:00", "amountCars": 97},
+            {"hour": "20:00", "amountCars": 102},
+            {"hour": "21:00", "amountCars": 107},
+            {"hour": "22:00", "amountCars": 112},
+            {"hour": "23:00", "amountCars": 117}
+          ]
+        },
+        {
+          "date": "2023-01-03",
+          "hours": [
+            {"hour": "00:00", "amountCars": 14},
+            {"hour": "01:00", "amountCars": 12},
+            {"hour": "02:00", "amountCars": 16},
+            {"hour": "03:00", "amountCars": 19},
+            {"hour": "04:00", "amountCars": 24},
+            {"hour": "05:00", "amountCars": 29},
+            {"hour": "06:00", "amountCars": 34},
+            {"hour": "07:00", "amountCars": 39},
+            {"hour": "08:00", "amountCars": 44},
+            {"hour": "09:00", "amountCars": 49},
+            {"hour": "10:00", "amountCars": 54},
+            {"hour": "11:00", "amountCars": 59},
+            {"hour": "12:00", "amountCars": 64},
+            {"hour": "13:00", "amountCars": 69},
+            {"hour": "14:00", "amountCars": 74},
+            {"hour": "15:00", "amountCars": 79},
+            {"hour": "16:00", "amountCars": 84},
+            {"hour": "17:00", "amountCars": 89},
+            {"hour": "18:00", "amountCars": 94},
+            {"hour": "19:00", "amountCars": 99},
+            {"hour": "20:00", "amountCars": 104},
+            {"hour": "21:00", "amountCars": 109},
+            {"hour": "22:00", "amountCars": 114},
+            {"hour": "23:00", "amountCars": 119}
+          ]
+        }
+      ]
+    
+    
   }
