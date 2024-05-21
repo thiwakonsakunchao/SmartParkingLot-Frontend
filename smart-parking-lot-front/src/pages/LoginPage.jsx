@@ -26,6 +26,7 @@ function LoginPage() {
             console.log(username, password);
             console.log(response.data.token);
         } catch (error) {
+            alert("Your username or password is incurrect!")
             console.log('error', error);
         }
     };

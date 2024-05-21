@@ -22,10 +22,10 @@ const router = createBrowserRouter([
     path: "/1",
     element: <App />,
   },{
-    path: "/2",
+    path: "/",
     element: <UserDashboard />
   },{
-    path: "/",
+    path: "/login",
     element: <LoginPage />
   },{
     path: "/admin",
