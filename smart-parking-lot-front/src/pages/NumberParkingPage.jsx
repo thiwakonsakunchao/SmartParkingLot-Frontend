@@ -14,7 +14,7 @@ function NumberParkingPage(){
                 window.location = "/login";
                 return;
               }
-              const response = await axios.get("http://localhost:8000/api/auth", {
+              const response = await axios.get("http://13.214.18.38:8000/api/auth", {
                 headers: {
                   Authorization: `Bearer ${authToken}` // Fix: Added space after 'Bearer'
                 }
