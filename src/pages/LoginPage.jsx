@@ -16,7 +16,7 @@ function LoginPage() {
         try {
             const username = document.querySelector('input[name=username]').value;
             const password = document.querySelector('input[name=password]').value;
-            const response = await axios.post('http://13.214.18.38:8000/api/login', {
+            const response = await axios.post('https://13.214.18.38:8000/api/login', {
                 username,
                 password
             });
